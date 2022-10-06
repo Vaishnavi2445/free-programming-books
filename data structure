@@ -1,0 +1,7 @@
+When we think of data structures, there are generally four form
+
+
+Linear: arrays, lists
+Tree: binary, heaps, space partitioning etc.
+Hash: distributed hash table, hash tree etc.
+Graphs: decision, directed, acyclic etc.
